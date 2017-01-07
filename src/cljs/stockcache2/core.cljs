@@ -19,7 +19,7 @@
             :textAlign "center"
             :position "absolute"
             :top (str (rand-int 300) "px")
-            :left (str (rand-int 300) "px") } } "•") (:data app)))))))
+            :left (str (rand-int 300) "px") } } "o") (:data app)))))))
 
 (om/root
  root-component
